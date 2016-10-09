@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  background-image: linear-gradient(to bottom, gainsboro 50%, lightgrey 50%);
+}
+
+.logo {
+  border-radius: 100%;
+  padding: 40px;
+  background: beige;
+  color: silver;
+}
+
+.logo__img {
+  display: block;
+  width: 200px;
+  height: 200px;
+  fill: currentColor;
+}
