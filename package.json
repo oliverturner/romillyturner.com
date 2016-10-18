@@ -1,6 +1,5 @@
 {
   "name": "romillyturner.com",
-  "homepage": "http://www.romillyturner.com",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
